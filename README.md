@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi People!
+
+Jwongh here, I like programming.
+I've had friends all over the universe.
